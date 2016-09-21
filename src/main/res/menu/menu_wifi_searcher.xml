@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.sharang.amazing.WifiSearcher">
+    <item
+        android:id="@+id/action_clues"
+        android:orderInCategory="100"
+        android:title="Clues Solved"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_clueshow"
+        android:orderInCategory="100"
+        android:title="Show Clues"
+        app:showAsAction="always" />
+</menu>
